@@ -22,7 +22,7 @@ count_ecoregions <- function(data_family){
   return(nbr_eco_species)
 }
 
-plot_ecoregions <- function(){
+plot_ecoregions <- function(nbr_eco_species){
   nbr_eco_species$ecoregion = as.factor(nbr_eco_species$ecoregion)
   nbr_eco_species$nbr_species = as.numeric(nbr_eco_species$nbr_species)
   
