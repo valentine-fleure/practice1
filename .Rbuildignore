@@ -1,0 +1,11 @@
+^LICENSE\.md$
+^README\.Rmd$
+^README\.html$
+^data$
+^outputs$
+^figures$
+^analyses$
+^make\.R$
+^practice1\.Rproj$
+^\.Rproj\.user$
+^_pkgdown\.yaml$
